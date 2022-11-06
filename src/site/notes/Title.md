@@ -18,3 +18,5 @@ labelColors: true
 fill: false
 beginAtZero: false
 ```
+
+- [ ] Test task ⏫ 🔁 every day 🛫 2022-11-04 ⏳ 2022-11-05 📅 2022-11-05
