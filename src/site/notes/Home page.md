@@ -10,7 +10,7 @@
 asdada abc def ghi
 
 
-
+npm install && npm run build
 a
 
 ## sub heading
