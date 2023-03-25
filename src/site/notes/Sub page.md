@@ -8,6 +8,8 @@
 ## sub title ...
 
 asdasd
+$ npm install && npm run build
+
 asd
 ad
 asd
